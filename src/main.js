@@ -2,6 +2,22 @@ import { createApp } from 'vue'
 import App from './App.vue'
 
 import './assets/main.css'
-import './../node_modules/bulma/css/bulma.css';
 
-createApp(App).mount('#app')
+import './../node_modules/bulma/css/bulma.css';
+// import '@/assets/main.scss'
+
+/* import the fontawesome core */
+import { library } from '@fortawesome/fontawesome-svg-core'
+
+/* import font awesome icon component */
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+/* import specific icons */
+import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons'
+
+/* add icons to the library */
+library.add(faMagnifyingGlass)
+
+createApp(App)
+.component('font-awesome-icon', FontAwesomeIcon)
+.mount('#app')

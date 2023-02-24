@@ -3,6 +3,8 @@ Amelia Aplikowski 2-22-23
 
 This is a simple website that allows the user to search for books.
 
+All info about books is from goodreads.com. 
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).

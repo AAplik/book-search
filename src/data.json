@@ -1,0 +1,119 @@
+[
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": ["Historical Fiction", "Romance"],
+        "year": "1813",
+        "pages": "279",
+        "cover": "https://live.staticflickr.com/3105/2604863988_aab82a4a7a_b.jpg",
+        "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work \"her own darling child\" and its vivacious heroine, Elizabeth Bennet, \"as delightful a creature as ever appeared in print.\" The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England."
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "genre": ["Historical Fiction", "Romance", "Gothic"],
+        "year": "1847",
+        "pages": "532",
+        "cover": "https://live.staticflickr.com/65535/52218309074_444552973a.jpg",
+        "description": "Orphaned as a child, Jane has felt an outcast her whole young life. Her courage is tested once again when she arrives at Thornfield Hall, where she has been hired by the brooding, proud Edward Rochester to care for his ward Adèle. Jane finds herself drawn to his troubled yet kind spirit. She falls in love. Hard. But there is a terrifying secret inside the gloomy, forbidding Thornfield Hall. Is Rochester hiding from Jane? Will Jane be left heartbroken and exiled once again?"
+    },
+    {
+        "title": "Little Women",
+        "author": "Louisa May Alcott",
+        "genre": ["Historical Fiction", "Young Adult", "Romance"],
+        "year": "1868",
+        "pages": "449",
+        "cover": "https://live.staticflickr.com/3568/3461674987_d85b635ff3_b.jpg",
+        "description": "Generations of readers young and old, male and female, have fallen in love with the March sisters of Louisa May Alcott’s most popular and enduring novel, Little Women. Here are talented tomboy and author-to-be Jo, tragically frail Beth, beautiful Meg, and romantic, spoiled Amy, united in their devotion to each other and their struggles to survive in New England during the Civil War. It is no secret that Alcott based Little Women on her own early life. While her father, the freethinking reformer and abolitionist Bronson Alcott, hobnobbed with such eminent male authors as Emerson, Thoreau, and Hawthorne, Louisa supported herself and her sisters with \"woman’s work,\" including sewing, doing laundry, and acting as a domestic servant. But she soon discovered she could make more money writing. Little Women brought her lasting fame and fortune, and far from being the \"girl’s book\" her publisher requested, it explores such timeless themes as love and death, war and peace, the conflict between personal ambition and family responsibilities, and the clash of cultures between Europe and America."
+    },
+    {
+        "title": "Whose Body?",
+        "author": "Dorothy L. Sayers",
+        "genre": ["Mystery", "Crime", "Detective"],
+        "year": "1923",
+        "pages": "212",
+        "cover": "https://assets.brilliancepublishing.com/b70f9814-f428-48db-ac6f-051bf6758848",
+        "description": "The stark naked body was lying in the tub. Not unusual for a proper bath, but highly irregular for murder -- especially with a pair of gold pince-nez deliberately perched before the sightless eyes. What's more, the face appeared to have been shaved after death. The police assumed that the victim was a prominent financier, but Lord Peter Wimsey, who dabbled in mystery detection as a hobby, knew better. In this, his first murder case, Lord Peter untangles the ghastly mystery of the corpse in the bath."
+    },
+    {
+        "title": "A Room of One's Own",
+        "author": "Virgina Woolf",
+        "genre": ["Nonfiction", "Essays", "Femminism"],
+        "year": "1928",
+        "pages": "112",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486701952l/866507._SY475_.jpg",
+        "description": "A Room of One's Own is an extended essay by Virginia Woolf. First published on the 24th of October, 1929, the essay was based on a series of lectures she delivered at Newnham College and Girton College, two women's colleges at Cambridge University in October 1928. While this extended essay in fact employs a fictional narrator and narrative to explore women both as writers and characters in fiction, the manuscript for the delivery of the series of lectures, titled Women and Fiction, and hence the essay, are considered nonfiction. The essay is seen as a feminist text, and is noted in its argument for both a literal and figural space for women writers within a literary tradition dominated by patriarchy."
+    },
+    {
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "genre": ["Psychology", "Femminism"],
+        "year": "1963",
+        "pages": "294",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554582218i/6514.jpg",
+        "description": "The Bell Jar chronicles the crack-up of Esther Greenwood: brilliant, beautiful, enormously talented, and successful, but slowly going under—maybe for the last time. Sylvia Plath masterfully draws the reader into Esther's breakdown with such intensity that Esther's insanity becomes completely real and even rational, as probable and accessible an experience as going to the movies. Such deep penetration into the dark and harrowing corners of the psyche is an extraordinary accomplishment and has made The Bell Jar a haunting American classic."
+    },
+    {
+        "title": "The Bluest Eye",
+        "author": "Toni Morrison",
+        "genre": ["Historical Fiction", "Race"],
+        "year": "1970",
+        "pages": "216",
+        "cover": "https://live.staticflickr.com/7051/7074055425_9e0f47e855_b.jpg",
+        "description": "The Bluest Eye is Toni Morrison's first novel, a book heralded for its richness of language and boldness of vision. Set in the author's girlhood hometown of Lorain, Ohio, it tells the story of black, eleven-year-old Pecola Breedlove. Pecola prays for her eyes to turn blue so that she will be as beautiful and beloved as all the blond, blue-eyed children in America. In the autumn of 1941, the year the marigolds in the Breedloves' garden do not bloom. Pecola's life does change- in painful, devastating ways. What its vivid evocation of the fear and loneliness at the heart of a child's yearning, and the tragedy of its fulfillment. The Bluest Eye remains one of Toni Morrisons's most powerful, unforgettable novels- and a significant work of American fiction."
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L. M. Montgomery",
+        "genre": ["Young Adult", "Historical Fiction"],
+        "year": "1908",
+        "pages": "320",
+        "cover": "https://live.staticflickr.com/4697/39807795862_2330f7dfb5_b.jpg",
+        "description": "This heartwarming story has beckoned generations of readers into the special world of Green Gables, an old-fashioned farm outside a town called Avonlea. Anne Shirley, an eleven-year-old orphan, has arrived in this verdant corner of Prince Edward Island only to discover that the Cuthberts—elderly Matthew and his stern sister, Marilla—want to adopt a boy, not a feisty redheaded girl. But before they can send her back, Anne—who simply must have more scope for her imagination and a real home—wins them over completely. A much-loved classic that explores all the vulnerability, expectations, and dreams of a child growing up, Anne of Green Gables is also a wonderful portrait of a time, a place, a family… and, most of all, love. "
+    },
+    {
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "genre": ["Young Adult", "Historical Fiction"],
+        "year": "1911",
+        "pages": "331",
+        "cover": "https://cdn18.picryl.com/photo/1911/01/01/the-secret-garden-547170-1024.jpg",
+        "description": "When orphaned Mary Lennox comes to live at her uncle's great house on the Yorkshire Moors, she finds it full of secrets. The mansion has nearly one hundred rooms, and her uncle keeps himself locked up. And at night, she hears the sound of crying down one of the long corridors. The gardens surrounding the large property are Mary's only escape. Then, Mary discovers a secret garden, surrounded by walls and locked with a missing key. One day, with the help of two unexpected companions, she discovers a way in. Is everything in the garden dead, or can Mary bring it back to life?"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft Shelley",
+        "genre": ["Horror", "Science Fiction", "Gothic", "Fantasy"],
+        "year": "1818",
+        "pages": "260",
+        "cover": "https://live.staticflickr.com/2599/3732525153_20b5b197e4_b.jpg",
+        "description": "Obsessed with creating life itself, Victor Frankenstein plunders graveyards for the material to fashion a new being, which he shocks into life with electricity. But his botched creature, rejected by Frankenstein and denied human companionship, sets out to destroy his maker and all that he holds dear. Mary Shelley's chilling Gothic tale was conceived when she was only eighteen, living with her lover Percy Shelley near Byron's villa on Lake Geneva. It would become the world's most famous work of horror fiction, and remains a devastating exploration of the limits of human creativity."
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "genre": ["Romance", "Gothic", "Historical Fiction"],
+        "year": "1847",
+        "pages": "464",
+        "cover": "https://live.staticflickr.com/3289/2725463099_8a0ca36095_b.jpg",
+        "description": "At the centre of this novel is the passionate love between Catherine Earnshaw and Heathcliff - recounted with such emotional intensity that a plain tale of the Yorkshire moors acquires the depth and simplicity of ancient tragedy."
+    },
+    {
+        "title": "A Little Princess",
+        "author": "Frances Hodgson Burnett",
+        "genre": ["Young Adult", "Historical Fiction"],
+        "year": "1905",
+        "pages": "242",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/A_Little_Princess_cover.jpg/220px-A_Little_Princess_cover.jpg",
+        "description": "Sara Crewe, an exceptionally intelligent and imaginative student at Miss Minchin's Select Seminary for Young Ladies, is devastated when her adored, indulgent father dies. Now penniless and banished to a room in the attic, Sara is demeaned, abused, and forced to work as a servant. How this resourceful girl's fortunes change again is at the center of A Little Princess, one of the best-loved stories in all of children's literature."
+    },
+    {
+        "title": "I Capture the Castle",
+        "author": "Dodie Smith",
+        "genre": ["Romance", "Historical Fiction"],
+        "year": "1948",
+        "pages": "408",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385316083i/31122.jpg",
+        "description": "Through six turbulent months of 1934, 17-year-old Cassandra Mortmain keeps a journal, filling three notebooks with sharply funny yet poignant entries about her home, a ruined Suffolk castle, and her eccentric and penniless family. By the time the last diary shuts, there have been great changes in the Mortmain household, not the least of which is that Cassandra is deeply, hopelessly, in love."
+    }
+]
